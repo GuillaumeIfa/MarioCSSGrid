@@ -6,9 +6,10 @@ body
 .container
 {
 	display: grid;
-	grid-gap: 1px;
+	grid-gap: 0px;
 	background-color: lightgrey;
-	height: 95vh;
+	height: 600px;
+	width: 450px;
 	grid-template-areas:
 
 	'.  .  .  r1 r1 r1 r1 r1 .  .  .  . '
