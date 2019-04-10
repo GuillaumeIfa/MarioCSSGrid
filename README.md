@@ -1,6 +1,6 @@
 # MarioCSSGrid
 Just a pixel Mario, in CSS, using grid.
-[MaRiO gRiD](http://88.164.211.96/MarioCSSGrid/)
+[MaRiO gRiD](http://gllmr.ml/MarioCSSGrid/)
 
 
 	'.  .  .  r1 r1 r1 r1 r1 .  .  .  . '
